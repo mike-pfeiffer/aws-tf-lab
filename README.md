@@ -438,4 +438,4 @@ $ terraform destroy
 Destroy complete! Resources: 40 destroyed.
 ```
 
-That's it. All the components in AWShave been removed.
+That's it. All the components in AWS have been removed.
