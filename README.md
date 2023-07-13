@@ -54,7 +54,7 @@ graph TD
 
 ### Add the terraform.tfvars file
 
-The .gitignore file excludes .tfvars files. If you are running this code locally, you will need a. tfvars file to provide the necessary API keys for AWS. An example of what you will need to create and put in the root directory is shown below. Alternatively, you can use a remote (Terraform Cloud) for securely storing sensitive information without risking accidental exposure in your repository.
+The .gitignore file excludes .tfvars files. If you are running this code locally, you will need a tfvars file to provide the necessary API keys for AWS. An example of what you will need to create and put in the root directory is shown below. Alternatively, you can use a remote (Terraform Cloud) for securely storing sensitive information without risking accidental exposure in your repository.
 
 **Command**
 
