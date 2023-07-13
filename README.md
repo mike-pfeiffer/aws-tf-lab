@@ -426,9 +426,15 @@ terraform init
 
  1. Run terraform destroy
 
-```shell
-$ terraform destroy
+**Command**
 
+```shell
+terraform destroy
+```
+
+**Example Output**
+
+```shell
 <OUTPUT OMITTED FOR BREVITY>
 
   Enter a value: yes
