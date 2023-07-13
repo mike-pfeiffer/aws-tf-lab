@@ -1,5 +1,10 @@
+# Ignore local cert files
+*.pem
+
 # Local .terraform directories
 **/.terraform/*
+.terraform.lock.hcl
+.terraform/*
 
 # .tfstate files
 *.tfstate
